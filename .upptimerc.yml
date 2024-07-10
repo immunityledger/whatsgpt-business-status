@@ -3,7 +3,7 @@ repo: whatsgpt-business-status
 
 sites:
   - name: WhatsGPT
-    url: https://platform.whatsgpt.biz
+    url: https://platform.whatsgpt.biz/api
     maxResponseTime: 2000
     icon: https://raw.githubusercontent.com/immunityledger/whatsgpt-business-status/master/assets/favicon.ico
 
@@ -13,7 +13,7 @@ assignees:
 status-website:
   cname: status.whatsgpt.biz
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/immunityledger/whatsgpt-business-status/master/static/img/icon.png
+  logoUrl: https://raw.githubusercontent.com/immunityledger/whatsgpt-business-status/master/assets/icon.png
   favicon: https://raw.githubusercontent.com/immunityledger/whatsgpt-business-status/master/assets/favicon.ico
   name: WhatsGPT Business Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
