@@ -21,3 +21,7 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://www.whatsgpt.biz
+i18n:
+  footer: WhatsGPT by [UVX Technologies](https://www.uvx.ai)
