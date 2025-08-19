@@ -1,7 +1,7 @@
 [
   {
     "name": "WhatsGPT",
-    "url": "https://platform.whatsgpt.biz/api",
+    "url": "https://platform.whatsgpt.ai/api",
     "icon": "https://raw.githubusercontent.com/immunityledger/whatsgpt-business-status/master/assets/favicon.ico",
     "slug": "whats-gpt",
     "status": "up",
@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 976,
-    "timeDay": 938,
-    "timeWeek": 1095,
-    "timeMonth": 993,
+    "time": 977,
+    "timeDay": 1013,
+    "timeWeek": 1094,
+    "timeMonth": 996,
     "timeYear": 971,
     "dailyMinutesDown": {}
   }
