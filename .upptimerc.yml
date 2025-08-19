@@ -3,7 +3,7 @@ repo: whatsgpt-business-status
 
 sites:
   - name: WhatsGPT
-    url: https://platform.whatsgpt.biz/api
+    url: https://platform.whatsgpt.ai/api
     maxResponseTime: 2000
     icon: https://raw.githubusercontent.com/immunityledger/whatsgpt-business-status/master/assets/favicon.ico
 
@@ -11,7 +11,7 @@ assignees:
   - mazenkhalil
 
 status-website:
-  cname: status.whatsgpt.biz
+  cname: status.whatsgpt.ai
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/immunityledger/whatsgpt-business-status/master/assets/icon.png
   favicon: https://raw.githubusercontent.com/immunityledger/whatsgpt-business-status/master/assets/favicon.ico
@@ -22,6 +22,6 @@ status-website:
     - title: Status
       href: /
     - title: Website
-      href: https://www.whatsgpt.biz
+      href: https://www.whatsgpt.ai
 i18n:
   footer: WhatsGPT by [UVX Technologies](https://www.uvx.ai)
