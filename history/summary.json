@@ -4,23 +4,23 @@
     "url": "https://platform.whatsgpt.ai/api",
     "icon": "https://raw.githubusercontent.com/immunityledger/whatsgpt-business-status/master/assets/favicon.ico",
     "slug": "whats-gpt",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "78.23%",
-    "uptimeWeek": "93.94%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "76.23%",
+    "uptimeWeek": "93.65%",
+    "uptimeMonth": "98.54%",
     "uptimeYear": "99.66%",
-    "time": 849,
-    "timeDay": 156,
-    "timeWeek": 137,
-    "timeMonth": 162,
-    "timeYear": 824,
+    "time": 871,
+    "timeDay": 159,
+    "timeWeek": 145,
+    "timeMonth": 164,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2025-09-16": 22,
       "2026-03-02": 719,
       "2026-03-03": 410,
       "2026-06-04": 297,
-      "2026-06-05": 314
+      "2026-06-05": 343
     }
   }
 ]
