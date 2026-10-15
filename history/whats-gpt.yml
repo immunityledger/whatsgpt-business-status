@@ -1,7 +1,7 @@
 url: https://platform.whatsgpt.ai/api
-status: degraded
+status: up
 code: 200
-responseTime: 3472
-lastUpdated: 2026-10-15T13:10:33.201Z
+responseTime: 250
+lastUpdated: 2026-10-15T13:27:29.807Z
 startTime: 2024-07-10T08:32:54.674Z
 generator: Upptime <https://github.com/upptime/upptime>
