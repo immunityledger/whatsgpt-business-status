@@ -6,15 +6,15 @@
     "slug": "whats-gpt",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.39%",
-    "time": 665,
-    "timeDay": 1465,
-    "timeWeek": 1323,
-    "timeMonth": 808,
-    "timeYear": 515,
+    "time": 664,
+    "timeDay": 1522,
+    "timeWeek": 1326,
+    "timeMonth": 809,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2026-03-02": 719,
       "2026-03-03": 410,
@@ -39,8 +39,7 @@
       "2026-10-08": 15,
       "2026-10-11": 31,
       "2026-10-13": 23,
-      "2026-10-15": 17,
-      "2026-10-17": 12
+      "2026-10-15": 17
     }
   }
 ]
